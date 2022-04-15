@@ -1,0 +1,27 @@
+{
+  "enabled": {
+    "type": "boolean",
+    "value": false
+  },
+  "lametrict": {
+    "type": "string",
+    "value": ""
+  },
+  "album_name": {
+    "type": "boolean",
+    "value": false
+  },
+  "title": {
+    "type": "boolean",
+    "value": false
+  },
+  "artist": {
+    "type": "boolean",
+    "value": true
+  },
+  "concatenate": {
+    "type": "boolean",
+    "value": true
+  }
+ 
+}
